@@ -1,0 +1,74 @@
+{
+	"MainForm": {
+		"En": "MainForm",
+		"Ru": "Главная форма"
+	},
+	"MainForm.ChangeLanguageLbl": {
+		"En": "Change Language Demo App",
+		"Ru": "Демонстрационное приложение смены языка"
+	},
+	"MainForm.ChangeLanguageBtn": {
+		"En": "Change Language",
+		"Ru": "Сменить язык"
+	},
+	"MainForm.ChangeLanguageMemo": {
+		"En": "Try popup and main menu. They also localized <br />by VCLLocalization<br />",
+		"Ru": "Попробуйте главное и всплывающее меню <br />они тоже локализованы с помощью VCLLocalization<br />"
+	},
+	"MainForm.ChangeLangugeEdt": {
+		"En": "Now you work with English Version",
+		"Ru": "Сейчас вы работает с руссской версией"
+	},
+	"MainForm.CloseBtn": {
+		"En": "Close App",
+		"Ru": "Закрыть приложение"
+	},
+	"MainForm.NApp": {
+		"En": "Application",
+		"Ru": "Приложение"
+	},
+	"MainForm.NChange": {
+		"En": "Change Language",
+		"Ru": "Сменить язык"
+	},
+	"MainForm.NClose": {
+		"En": "Close",
+		"Ru": "Закрыть"
+	},
+	"MainForm.NPopupChange": {
+		"En": "Change Language",
+		"Ru": "Сменить язык"
+	},
+	"MainForm.NPopupClose": {
+		"En": "Close",
+		"Ru": "Закрыть"
+	},
+	"LanguageForm": {
+		"Ru": "Язык интерфейса (UI Language):",
+		"En": "UI Language"
+	},
+	"LanguageForm.LanguageLbl": {
+		"Ru": "Выберите язык (Choose Language)",
+		"En": "Choose Language"
+	},
+	"LanguageForm.InfoLbl": {
+		"Ru": "Будьте внимательны, изменение языка интерфейса может повлечь за собой потерю введенных данных, но не сохраненных данных в приложении",
+		"En": "Attention! Changing of UI Language can cause losing of unsaved data in app"
+	},
+	"LanguageForm.CancelBtn": {
+		"En": "Cancel",
+		"Ru": "Отмена"
+	},
+	"LanguageForm.ApplyBtn": {
+		"En": "Ок",
+		"Ru": "Ок"
+	},
+	"MainForm.UpdateLocalization": {
+		"En": "Update Localization File",
+		"Ru": "Обновить файл локализации"
+	},
+	"LanguageForm.LangCmb": {
+		"En": "English",
+		"Ru": "Русский"
+	}
+}
