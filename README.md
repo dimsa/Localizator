@@ -1,7 +1,7 @@
 # VCLLocalizator
 ## Delphi VCL(It can be easy changed for FMX) Localizator, by Dmitriy Sorokin.
 
-###Check Project file:
+### Check Project file:
 ```Localizator := TLocalizator.Create;
   with Localizator do begin
     AddForm(MainForm);
@@ -9,10 +9,11 @@
   end;
   MainForm.Init(Localizator);
 
-  Application.Run;```
+  Application.Run;
+```
   
  
-###Then check Init method in MainForm
+### Then check Init method in MainForm
 
 ```procedure TMainForm.Init(ALocalizator: TLocalizator);
 begin
@@ -27,6 +28,7 @@ begin
   ALocalizator.ChangeLanguage(En);
 
   // Please check uLocalizedString. It has runtime localization ability
-end;```
+end;
+```
 
 By Dmitriy Sorokin
